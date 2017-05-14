@@ -3,9 +3,34 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  cta_label: "<i class='fa fa-download'></i> Install Now"
-  cta_url: "/docs/quick-start-guide/"
+  overlay_image: /assets/images/homepage/homepage-holiday-lounge.jpg
+  cta_label:
+  cta_url:
   caption:
-excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.4.1">Latest release v4.4.1</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+excerpt: 'Stories of bartenders and service industry workers who have gone through the difficult process of transitioning to new careers. A source of inspiration and a resource for others looking to do the same.'
+intro:
+  - excerpt: 'Recent stories:'
+feature_row:
+  - image_path: /assets/images/homepage/homepage-featured-story-1.jpg
+    alt: "customizable"
+    title: "Brad Dunning"
+    excerpt: "I was behind the stick for 15 years and then found my calling as a personal trainer. Now I'm so happy!"
+    url: "/docs/configuration/"
+    btn_label: "Read More"
+  - image_path: /assets/images/homepage/homepage-featured-story-2.jpg
+    alt: "fully responsive"
+    title: "Emily Moore"
+    excerpt: "I'd been bartending since college and felt like I would never be able to stop. It was so hard to escape!"
+    url: "/docs/layouts/"
+    btn_label: "Read More"
+  - image_path: /assets/images/homepage/homepage-featured-story-3.jpg
+    alt: "100% free"
+    title: "Rick McNulty"
+    excerpt: "After a long struggle trying to figure out what I wanted to do next, I eventually went back to school and got a degree."
+    url: "/docs/license/"
+    btn_label: "Read More"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}

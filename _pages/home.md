@@ -15,19 +15,19 @@ feature_row:
     alt: "customizable"
     title: "Brad Dunning"
     excerpt: "I was behind the stick for 15 years and then found my calling as a personal trainer. Now I'm so happy!"
-    url: "/docs/configuration/"
+    url: "/pages/featured-post-1/"
     btn_label: "Read More"
   - image_path: /assets/images/homepage/homepage-featured-story-2.jpg
     alt: "fully responsive"
     title: "Emily Moore"
     excerpt: "I'd been bartending since college and felt like I would never be able to stop. It was so hard to escape!"
-    url: "/docs/layouts/"
+    url: "/pages/featured-post-2/"
     btn_label: "Read More"
   - image_path: /assets/images/homepage/homepage-featured-story-3.jpg
     alt: "100% free"
     title: "Rick McNulty"
     excerpt: "After a long struggle trying to figure out what I wanted to do next, I eventually went back to school and got a degree."
-    url: "/docs/license/"
+    url: "/pages/featured-post-3/"
     btn_label: "Read More"
 ---
 

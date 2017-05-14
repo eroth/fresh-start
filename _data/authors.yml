@@ -1,0 +1,29 @@
+Brad Dunning:
+  name: "Brad Dunning"
+  uri: "http://google.com"
+  email: "billy@rick.com"
+  bio: "Former full-time bartender turned Personal Trainer."
+  avatar: "/assets/images/featured-story-1/featured-story-1-bio-pic.jpg"
+  twitter: "extravagantman"
+  linkedin: "Brad Dunning"
+  instagram: "Brad Dunning"
+
+Emily Moore:
+  name: "Emily Moore"
+  uri: "http://google.com"
+  email: "billy@rick.com"
+  bio: "Former full-time bartender turned Acupuncturist."
+  avatar: "/assets/images/featured-story-2/featured-story-2-bio-pic.jpg"
+  twitter: "extravagantman"
+  linkedin: "Emily Moore"
+  instagram: "Emily Moore"
+
+Rick McNulty:
+  name: "Rick McNulty"
+  uri: "http://google.com"
+  email: "billy@rick.com"
+  bio: "Former full-time bartender turned Software Developer."
+  avatar: "/assets/images/featured-story-3/featured-story-3-bio-pic.jpg"
+  twitter: "extravagantman"
+  linkedin: "Rick McNulty"
+  instagram: "Rick McNulty"

@@ -13,8 +13,8 @@ intro:
 feature_row:
   - image_path: /assets/images/homepage/homepage-featured-story-1.jpg
     alt: "customizable"
-    title: "Brad Dunning"
-    excerpt: "I was behind the stick for 15 years and then found my calling as a personal trainer. Now I'm so happy!"
+    title: "Evan Roth"
+    excerpt: "I bartended in nightclubs and restaurants for eight years, went back to school for a degree, and now work in tech."
     url: "/pages/featured-post-1/"
     btn_label: "Read More"
   - image_path: /assets/images/homepage/homepage-featured-story-2.jpg

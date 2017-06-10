@@ -73,6 +73,8 @@
   p {
     margin: 0 0 $indent-var;
     line-height: 1.4;
+    letter-spacing: -0.7px;
+    word-spacing: 0.7px;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {

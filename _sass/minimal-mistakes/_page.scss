@@ -61,9 +61,18 @@
     font-size: $type-size-5;
   }
 
+  ul {
+    line-height: 1.4;
+  }
+
+  li {
+    margin: 1px 0;
+  }
+
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
+    line-height: 1.4;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {

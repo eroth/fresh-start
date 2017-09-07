@@ -8,7 +8,6 @@ layout: single
 permalink: /pages/featured-post-1/
 header:
   image: /assets/images/featured-story-1/featured-story-1-header.jpg
-  caption: "Brad Dunning training a happy client at the gym."
 tags:
   - sample post
   - readability

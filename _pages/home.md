@@ -19,8 +19,8 @@ feature_row:
     btn_label: "Read More"
   - image_path: /assets/images/homepage/homepage-featured-story-2.jpg
     alt: "fully responsive"
-    title: "Emily Moore"
-    excerpt: "I've been bartending since college and felt like I would never be able to stop. Now I'm working towards doing Acupuncture."
+    title: "Shane Wesbrock"
+    excerpt: "I began tending bar in a San Francisco pool hall in 1995 when I was just twenty-one years old. At the time it was a really fantastic gig. Going..."
     url: "/pages/featured-post-2/"
     btn_label: "Read More"
   - image_path: /assets/images/homepage/homepage-featured-story-3.jpg

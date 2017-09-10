@@ -63,8 +63,8 @@ I was lucky enough to have this opportunity with a couple people I’d met along
 
 <figure class="third">
 	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/iu-bloomington/me-poster-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/iu-bloomington/me-poster-preview.jpg" title="Me posing next to our project research poster."></a>
-  <a href="/assets/images/featured-story-1/iu-bloomington/iu-campus-full.jpg"><img src="/assets/images/featured-story-1/iu-bloomington/iu-campus-preview.jpg" title="The beautiful IU campus."></a>
-	<a href="/assets/images/featured-story-1/iu-bloomington/iu-clock-full.jpg"><img src="/assets/images/featured-story-1/iu-bloomington/iu-clock-preview.jpg" title="There were lots of these really cool clocks dotting the campus."></a>
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/iu-bloomington/iu-campus-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/iu-bloomington/iu-campus-preview.jpg" title="The beautiful IU campus."></a>
+	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/iu-bloomington/iu-clock-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/iu-bloomington/iu-clock-preview.jpg" title="There were lots of these really cool clocks dotting the campus."></a>
   <figcaption>First: Me posing next to our project research poster. Second: The beautiful IU campus. Third: There were lots of these really cool clocks dotting the campus.</figcaption>
 </figure>
 
@@ -83,9 +83,9 @@ Like sacrificing some quality of education for job experience and some of the ot
 It also taught me that this is one of the reasons why companies hire contract workers—so they don’t have to get their HR departments involved in situations like this (I was contracted to them through a contracting company that I was employed with).
 
 <figure class="third">
-	<a href="/assets/images/featured-story-1/philly/walk-to-work-full.jpg"><img src="/assets/images/featured-story-1/philly/walk-to-work-preview.jpg" title="My walk to work through Rittenhouse Square every day."></a>
-  <a href="/assets/images/featured-story-1/philly/hay-group-full.jpg"><img src="/assets/images/featured-story-1/philly/hay-group-preview.jpg" title="Inside our office."></a>
-	<a href="/assets/images/featured-story-1/philly/office-view-full.jpg"><img src="/assets/images/featured-story-1/philly/office-view-preview.jpg" title="A cloudy view of City Hall from our office inside the Wanamaker Building."></a>
+	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/philly/walk-to-work-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/philly/walk-to-work-preview.jpg" title="My walk to work through Rittenhouse Square every day."></a>
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/philly/hay-group-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/philly/hay-group-preview.jpg" title="Inside our office."></a>
+	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/philly/office-view-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/philly/office-view-preview.jpg" title="A cloudy view of City Hall from our office inside the Wanamaker Building."></a>
   <figcaption>First: My walk to work through Rittenhouse Square every day. Second: Inside our office. Third: A cloudy view of City Hall from our office inside the Wanamaker Building.</figcaption>
 </figure>
 
@@ -94,8 +94,8 @@ It also taught me that this is one of the reasons why companies hire contract wo
 Four years of the grinding out of school, studies, papers, and projects, the frustrations, the angst, the fear, the quitting of bartending, the starting over in life.  Four years of going to the gym, of learning to eat and live healthier and more responsibly, of grieving over the loss of my mom, of feeling lonely and isolated in DC—all that boiled down, distilled, and compressed into that one moment.  That moment of hearing my name called out, of walking up to the stage dressed in a black graduation gown with the cap with the golden tassel hanging off it.  That moment of my arm outstretched to shake the hand of an official from my school that I’d never heard of prior.  That moment for us to be frozen in time so a photographer could capture it, so I could order an overpriced print from them, so I could frame it and put it next to my diploma, so I could remind my future self of all this—lest I ever forget.
 
 <figure class="half">
-	<a href="/assets/images/featured-story-1/graduation/me-in-the-crowd-full.jpg"><img src="/assets/images/featured-story-1/graduation/me-in-the-crowd-preview.jpg" title="Me in the crowd, about to go up and get my diploma."></a>
-	<a href="/assets/images/featured-story-1/graduation/me-with-dad-full.jpg"><img src="/assets/images/featured-story-1/graduation/me-with-dad-preview.jpg" title="Me posing with my dad afterwards."></a>
+	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/graduation/me-in-the-crowd-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/graduation/me-in-the-crowd-preview.jpg" title="Me in the crowd, about to go up and get my diploma."></a>
+	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/graduation/me-with-dad-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/graduation/me-with-dad-preview.jpg" title="Me posing with my dad afterwards."></a>
 	<figcaption>First: me in the crowd, about to go up and get my diploma. Second: me posing with my dad afterwards.</figcaption>
 </figure>
 

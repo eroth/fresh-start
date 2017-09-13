@@ -3,11 +3,13 @@ main:
   - title: "About"
     url: /about/
   - title: "Archive"
-    url:
+    url: /archive/
   - title: "Resources"
-    url:
+    url: /resources/
+  - title: "Forum"
+    url: /forum/
   - title: "Share Your Story"
-    url:
+    url: /share-your-story/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

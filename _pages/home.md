@@ -15,7 +15,6 @@ feature_row:
     alt: "customizable"
     title: "Evan Roth"
     excerpt: "I bartended in nightclubs and restaurants for eight years, went back to school for a degree, and now work in tech."
-    btn_label: "Read More"
   - image_path: /assets/images/homepage/homepage-featured-story-2.jpg
     alt: "fully responsive"
     title: "Emily Moore"
@@ -25,7 +24,6 @@ feature_row:
     alt: "100% free"
     title: "Rick McNulty"
     excerpt: "After a long struggle trying to figure out what I wanted to do next, I eventually went back to school and got a degree."
-    btn_label: "Read More"
 ---
 {% for f in feature_row %}
   {% assign f.title='test' %}

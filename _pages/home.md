@@ -15,21 +15,23 @@ feature_row:
     alt: "customizable"
     title: "Evan Roth"
     excerpt: "I bartended in nightclubs and restaurants for eight years, went back to school for a degree, and now work in tech."
-    url: "/pages/featured-post-1/"
     btn_label: "Read More"
   - image_path: /assets/images/homepage/homepage-featured-story-2.jpg
     alt: "fully responsive"
     title: "Emily Moore"
     excerpt: "I've been bartending since college and felt like I would never be able to stop. Now I'm working towards doing Acupuncture."
-    url: "/pages/featured-post-2/"
     btn_label: "Read More"
   - image_path: /assets/images/homepage/homepage-featured-story-3.jpg
     alt: "100% free"
     title: "Rick McNulty"
     excerpt: "After a long struggle trying to figure out what I wanted to do next, I eventually went back to school and got a degree."
-    url: "/pages/featured-post-3/"
     btn_label: "Read More"
 ---
+{% for f in feature_row %}
+  {% assign f.title='test' %}
+  {% assign f.url='test' %}
+  {% assign f.btn_label='Read More' %}
+{% endfor %}
 
 {% include feature_row id="intro" type="center" %}
 

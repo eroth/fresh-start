@@ -18,4 +18,4 @@ The fundamental goal of this site is to help bartenders and service industry wor
 I hope the posts and information you read here will help you, encourage you, and save you some of the hardships that those who have made this journey before you have encountered.  Here's to Last Call!
 
 ## Tech
-Last Call was done entirely using open source software.  It is powered by the Ruby gem [Jekyll](https://github.com/jekyll/jekyll) and the amazing [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) template.  It is hosted through [GitHub Pages](https://pages.github.com/).  It was developed with the text editor [Atom](https://atom.io/) and the Markdown editor [MacDown](https://macdown.uranusjr.com/).
+Last Call was done entirely using open source software.  It is powered by the Ruby gem [Jekyll](https://github.com/jekyll/jekyll) and the amazing [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/) template.  It is hosted through [GitHub Pages](https://pages.github.com/).  It was developed with the text editor [Atom](https://atom.io/) and the Markdown editor [MacDown](https://macdown.uranusjr.com/).

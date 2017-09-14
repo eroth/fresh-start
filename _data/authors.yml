@@ -1,10 +1,11 @@
 Evan Roth:
   name: "Evan Roth"
   uri: "http://hex00sells.com"
-  email: "evanroth@me.com"
+  email: "evan@thelastcallproject.com"
   bio: "Former full-time bartender turned Mobile App Developer."
   avatar: "/assets/images/featured-story-1/featured-story-1-bio-pic.jpg"
   linkedin: "pub/evan-roth/57/9b/832"
+  github: "eroth"
 
 Emily Moore:
   name: "Emily Moore"

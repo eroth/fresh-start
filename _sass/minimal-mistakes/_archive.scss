@@ -32,6 +32,26 @@
   }
 }
 
+.archive__item {
+  a {
+    color: #000;
+  }
+
+  a:hover {
+    .archive__item-title {
+      text-decoration: underline;
+    }
+
+    text-decoration: none;
+  }
+}
+
+.archive__item-date {
+  padding-bottom: 10px;
+  font-size: $type-size-7;
+  color: $gray;
+}
+
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $header-font-family;

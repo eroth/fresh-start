@@ -22,9 +22,11 @@
 
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item"><a href="{{ f_url }}">
+        {% if f.date %}
+          <div class="archive__item-date"><i><time datetime="{{ f.date | date_to_xmlschema }}">{{ f.date | date: "%B %d, %Y" }}</time></i></div>
+        {% endif %}
         {% if f.teaser_image_path %}
           <div class="archive__item-teaser">
-
               <img src=
                 {% if f.teaser_image_path contains "://" %}
                   "{{ f.teaser_image_path }}"
@@ -32,7 +34,6 @@
                   "{{ f.teaser_image_path | absolute_url }}"
                 {% endif %}
               alt="{% if f.alt %}{{ f.alt }}{% endif %}">
-
           </div>
         {% endif %}
 

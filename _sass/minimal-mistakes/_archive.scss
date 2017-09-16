@@ -32,6 +32,19 @@
   }
 }
 
+.archive__item {
+  a {
+    .archive__item-excerpt {
+      color: $gray;
+    }
+    color: #000;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+}
+
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $header-font-family;

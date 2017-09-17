@@ -250,3 +250,14 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _resources
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true

@@ -6,8 +6,8 @@ author_profile: true
 share: true
 layout: single
 header:
-  image: /assets/images/featured-story-1/featured-story-1-header.jpg
-teaser_image_path: /assets/images/homepage/homepage-featured-story-1.jpg
+  image: /assets/images/posts/2017-08-14-evan-roth/header.jpg
+teaser_image_path: /assets/images/posts/2017-08-14-evan-roth/teaser.jpg
 tags:
   - sample post
   - readability
@@ -63,9 +63,9 @@ I was lucky enough to have this opportunity with a couple people I’d met along
 So, in the summer of 2013 I found myself doing one of these summer research programs at beautiful Indiana University in Bloomington with around 20 other people that were mostly much younger than myself.  It was an amazing, life-changing experience that I won’t get into in any more detail here, but if you want to read about it, you can do so on [my blog](http://hex00sells.com/summer-research-project-i-participated-in-supporting-social-data-research-with-nosql-databases-comparison-of-hbase-and-riak/ "http://hex00sells.com/summer-research-project-i-participated-in-supporting-social-data-research-with-nosql-databases-comparison-of-hbase-and-riak/").  Suffice it to say that if you can get yourself into a program like this (or something similar), I would highly advise you to do so.  While I didn’t end up directly using the fruits of this program in my career (yet, at least), I got second author on a published academic paper, [published in a book](http://a.co/bO7q5Uw "Cloud Computing for Data-Intensive Applications"), and learned all about NoSQL databases, Python, and Linux.  That either sounds really good or really weird to you (and I wouldn’t blame you if the latter was true).  If you can’t get into one of these programs, there are also summer internships available, and you can usually find out about those through your school or through general Internet searches.
 
 <figure class="third">
-	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/iu-bloomington/me-poster-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/iu-bloomington/me-poster-preview.jpg" title="Me posing next to our project research poster."></a>
-  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/iu-bloomington/iu-campus-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/iu-bloomington/iu-campus-preview.jpg" title="The beautiful IU campus."></a>
-	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/iu-bloomington/iu-clock-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/iu-bloomington/iu-clock-preview.jpg" title="There were lots of these really cool clocks dotting the campus."></a>
+	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2017-08-14-evan-roth/iu-bloomington/me-poster-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2017-08-14-evan-roth/iu-bloomington/me-poster-preview.jpg" title="Me posing next to our project research poster."></a>
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2017-08-14-evan-roth/iu-bloomington/iu-campus-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2017-08-14-evan-roth/iu-bloomington/iu-campus-preview.jpg" title="The beautiful IU campus."></a>
+	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2017-08-14-evan-roth/iu-bloomington/iu-clock-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2017-08-14-evan-roth/iu-bloomington/iu-clock-preview.jpg" title="There were lots of these really cool clocks dotting the campus."></a>
   <figcaption>First: Me posing next to our project research poster. Second: The beautiful IU campus. Third: There were lots of these really cool clocks dotting the campus.</figcaption>
 </figure>
 
@@ -84,9 +84,9 @@ Like sacrificing some quality of education for job experience and some of the ot
 It also taught me that this is one of the reasons why companies hire contract workers—so they don’t have to get their HR departments involved in situations like this (I was contracted to them through a contracting company that I was employed with).
 
 <figure class="third">
-	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/philly/walk-to-work-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/philly/walk-to-work-preview.jpg" title="My walk to work through Rittenhouse Square every day."></a>
-  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/philly/hay-group-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/philly/hay-group-preview.jpg" title="Inside our office."></a>
-	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/philly/office-view-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/philly/office-view-preview.jpg" title="A cloudy view of City Hall from our office inside the Wanamaker Building."></a>
+	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2017-08-14-evan-roth/philly/walk-to-work-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2017-08-14-evan-roth/philly/walk-to-work-preview.jpg" title="My walk to work through Rittenhouse Square every day."></a>
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2017-08-14-evan-roth/philly/hay-group-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2017-08-14-evan-roth/philly/hay-group-preview.jpg" title="Inside our office."></a>
+	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2017-08-14-evan-roth/philly/office-view-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2017-08-14-evan-roth/philly/office-view-preview.jpg" title="A cloudy view of City Hall from our office inside the Wanamaker Building."></a>
   <figcaption>First: My walk to work through Rittenhouse Square every day. Second: Inside our office. Third: A cloudy view of City Hall from our office inside the Wanamaker Building.</figcaption>
 </figure>
 
@@ -95,8 +95,8 @@ It also taught me that this is one of the reasons why companies hire contract wo
 Four years of the grinding out of school, studies, papers, and projects, the frustrations, the angst, the fear, the quitting of bartending, the starting over in life.  Four years of going to the gym, of learning to eat and live healthier and more responsibly, of grieving over the loss of my mom, of feeling lonely and isolated in DC—all that boiled down, distilled, and compressed into that one moment.  That moment of hearing my name called out, of walking up to the stage dressed in a black graduation gown with the cap with the golden tassel hanging off it.  That moment of my arm outstretched to shake the hand of an official from my school that I’d never heard of prior.  That moment for us to be frozen in time so a photographer could capture it, so I could order an overpriced print from them, so I could frame it and put it next to my diploma, so I could remind my future self of all this—lest I ever forget.
 
 <figure class="half">
-	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/graduation/me-in-the-crowd-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/graduation/me-in-the-crowd-preview.jpg" title="Me in the crowd, about to go up and get my diploma."></a>
-	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/graduation/me-with-dad-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/featured-story-1/graduation/me-with-dad-preview.jpg" title="Me posing with my dad afterwards."></a>
+	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2017-08-14-evan-roth/graduation/me-in-the-crowd-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2017-08-14-evan-roth/graduation/me-in-the-crowd-preview.jpg" title="Me in the crowd, about to go up and get my diploma."></a>
+	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2017-08-14-evan-roth/graduation/me-with-dad-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2017-08-14-evan-roth/graduation/me-with-dad-preview.jpg" title="Me posing with my dad afterwards."></a>
 	<figcaption>First: me in the crowd, about to go up and get my diploma. Second: me posing with my dad afterwards.</figcaption>
 </figure>
 

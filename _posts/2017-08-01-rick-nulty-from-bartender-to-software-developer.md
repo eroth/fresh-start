@@ -6,8 +6,8 @@ author_profile: true
 share: true
 layout: single
 header:
-  image: /assets/images/featured-story-3/featured-story-3-header.jpg
-teaser_image_path: /assets/images/homepage/homepage-featured-story-3.jpg
+  image: /assets/images/posts/2017-08-01-rick-nulty/header.jpg
+teaser_image_path: /assets/images/posts/2017-08-01-rick-nulty/teaser.jpg
 tags:
   - sample post
   - readability

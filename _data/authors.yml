@@ -1,18 +1,21 @@
+# Bartender contributors
 Evan Roth:
   name: "Evan Roth"
   uri: "http://hex00sells.com"
   email: "evan@thelastcallproject.com"
   bio: "Former full-time bartender turned mobile app developer."
-  avatar: "/assets/images/featured-story-1/featured-story-1-bio-pic.jpg"
+  avatar: "/assets/images/authors/bartenders/evan-roth-bio-pic.jpg"
   linkedin: "pub/evan-roth/57/9b/832"
   github: "eroth"
+  soundcloud: "evian"
+  stackoverflow: "482557"
 
 Emily Moore:
   name: "Emily Moore"
   uri: "http://google.com"
   email: "billy@rick.com"
   bio: "Former full-time bartender turned acupuncturist."
-  avatar: "/assets/images/featured-story-2/featured-story-2-bio-pic.jpg"
+  avatar: "/assets/images/authors/bartenders/emily-moore-bio-pic.jpg"
   twitter: "extravagantman"
   linkedin: "Emily Moore"
   instagram: "Emily Moore"
@@ -22,7 +25,15 @@ Rick McNulty:
   uri: "http://google.com"
   email: "billy@rick.com"
   bio: "Former full-time bartender turned software developer."
-  avatar: "/assets/images/featured-story-3/featured-story-3-bio-pic.jpg"
+  avatar: "/assets/images/authors/bartenders/rick-nulty-bio-pic.jpg"
   twitter: "extravagantman"
   linkedin: "Rick McNulty"
   instagram: "Rick McNulty"
+
+# Life coach contributors
+Emma Johnson:
+  name: "Emma Johnson"
+  uri: "http://google.com"
+  email: "emma@change-your-life.com"
+  bio: "A life coach striving to effect meaningful change for my clients."
+  avatar: "/assets/images/authors/life_coaches/emma-johnson-bio-pic.jpg"

@@ -6,8 +6,8 @@ author_profile: true
 share: true
 layout: single
 header:
-  image: /assets/images/featured-story-2/featured-story-2-header.jpg
-teaser_image_path: /assets/images/homepage/homepage-featured-story-2.jpg
+  image: /assets/images/posts/2017-07-31-emily-moore/header.jpg
+teaser_image_path: /assets/images/posts/2017-07-31-emily-moore/teaser.jpg
 tags:
   - sample post
   - readability

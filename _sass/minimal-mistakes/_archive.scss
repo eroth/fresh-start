@@ -53,7 +53,7 @@
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: 0em;
   font-family: $header-font-family;
   font-weight: $roboto-bold;
   font-style: normal;
@@ -61,6 +61,11 @@
   a + a {
     opacity: 0.5;
   }
+}
+
+.archive__item-author {
+  margin-top: 0em;
+  margin-bottom: 0.5em;
 }
 
 /* remove border*/

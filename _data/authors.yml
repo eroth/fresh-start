@@ -1,3 +1,4 @@
+# Bartender contributors
 Evan Roth:
   name: "Evan Roth"
   uri: "http://hex00sells.com"
@@ -26,3 +27,10 @@ Rick McNulty:
   twitter: "extravagantman"
   linkedin: "Rick McNulty"
   instagram: "Rick McNulty"
+
+# Life coach contributors
+Emma Johnson:
+  name: "Emma Johnson"
+  uri: "http://google.com"
+  email: "emma@change-your-life.com"
+  bio: "A life coach striving to effect meaningful change for my clients."

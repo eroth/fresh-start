@@ -1,5 +1,5 @@
 ---
-title: "Evan Roth: From Bartender To Mobile App Developer"
+title: "From Bartender To Mobile App Developer"
 author: Evan Roth
 read_time: true
 author_profile: true

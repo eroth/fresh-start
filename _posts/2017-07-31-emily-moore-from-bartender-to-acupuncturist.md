@@ -1,5 +1,5 @@
 ---
-title: "Emily Moore: From Bartender To Acupuncturist"
+title: "From Bartender To Acupuncturist"
 author: Emily Moore
 read_time: true
 author_profile: true

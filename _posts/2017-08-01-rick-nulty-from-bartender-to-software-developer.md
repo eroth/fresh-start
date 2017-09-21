@@ -1,5 +1,5 @@
 ---
-title: "Rick McNulty: From Bartender To Software Developer"
+title: "From Bartender To Software Developer"
 author: Rick McNulty
 read_time: true
 author_profile: true

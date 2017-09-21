@@ -2,8 +2,9 @@
 permalink: /archive/
 title: "Archive"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layout: single
+layout: archive
 ---
-This is where all past stories will be.
-
-Coming soon!
+<p><i>Past stories from those who have contributed...</i></p>
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}

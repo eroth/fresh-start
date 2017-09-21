@@ -10,15 +10,12 @@ Evan Roth:
   soundcloud: "evian"
   stackoverflow: "482557"
 
-Emily Moore:
-  name: "Emily Moore"
+Shane Wesbrock:
+  name: "Shane Wesbrock"
   uri: "http://google.com"
   email: "billy@rick.com"
-  bio: "Former full-time bartender turned acupuncturist."
-  avatar: "/assets/images/authors/bartenders/emily-moore-bio-pic.jpg"
-  twitter: "extravagantman"
-  linkedin: "Emily Moore"
-  instagram: "Emily Moore"
+  bio: "Former full-time bartender turned writer."
+  avatar: "/assets/images/authors/bartenders/shane-wesbrock-bio-pic.jpg"
 
 Rick McNulty:
   name: "Rick McNulty"

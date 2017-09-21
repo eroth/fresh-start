@@ -1,18 +1,12 @@
 # main links
 main:
   - title: "About"
-    url:
+    url: /about/
   - title: "Archive"
-    url:
+    url: /archive/
   - title: "Resources"
-    url:
+    url: /resources/
+  - title: "Forum"
+    url: /forum/
   - title: "Share Your Story"
-    url:
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /share-your-story/

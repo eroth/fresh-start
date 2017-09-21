@@ -163,6 +163,12 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
+collections:
+  resources:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Sass/SCSS
 sass:
@@ -237,6 +243,17 @@ defaults:
   - scope:
       path: ""
       type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  # _resources
+  - scope:
+      path: ""
+      type: resources
     values:
       layout: single
       author_profile: true

@@ -8,29 +8,6 @@ header:
   cta_url:
   caption:
 excerpt: 'Stories of bartenders and service industry workers who have gone through the difficult process of transitioning to new careers and marking major life changes. A source of inspiration and a resource for others looking to do the same.'
-intro:
-  - excerpt: 'Recent stories:'
-feature_row:
-  - image_path: /assets/images/homepage/homepage-featured-story-1.jpg
-    alt: "customizable"
-    title: "Evan Roth"
-    excerpt: "I bartended in nightclubs and restaurants for eight years, went back to school for a degree, and now work in tech."
-    url: "/pages/featured-post-1/"
-    btn_label: "Read More"
-  - image_path: /assets/images/homepage/homepage-featured-story-2.jpg
-    alt: "fully responsive"
-    title: "Shane Wesbrock"
-    excerpt: "I began tending bar in a San Francisco pool hall in 1995 when I was just twenty-one years old. At the time it was a really fantastic gig. Going..."
-    url: "/pages/featured-post-2/"
-    btn_label: "Read More"
-  - image_path: /assets/images/homepage/homepage-featured-story-3.jpg
-    alt: "100% free"
-    title: "Rick McNulty"
-    excerpt: "After a long struggle trying to figure out what I wanted to do next, I eventually went back to school and got a degree."
-    url: "/pages/featured-post-3/"
-    btn_label: "Read More"
 ---
 
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
+{% include feature_row_latest_posts %}

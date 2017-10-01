@@ -12,7 +12,6 @@ tags:
   - sample post
   - readability
   - test
-homepage_excerpt: "I've been bartending since college and felt like I would never be able to stop. Now I'm working towards being a writer."
 ---
 
 ## In the beginning...

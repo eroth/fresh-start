@@ -42,9 +42,9 @@
             <h2 class="archive__item-title">{{ f.author }}</h2>
           {% endif %}
 
-          {% if f.homepage_excerpt %}
+          {% if f.excerpt %}
             <div class="archive__item-excerpt">
-              {{ f.homepage_excerpt | markdownify }}
+              {{ f.excerpt | markdownify | strip_html | truncate: 220 }}
             </div>
           {% endif %}
         </div>

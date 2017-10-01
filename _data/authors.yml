@@ -17,15 +17,10 @@ Shane Wesbrock:
   bio: "Former full-time bartender turned writer."
   avatar: "/assets/images/authors/bartenders/shane-wesbrock-bio-pic.jpg"
 
-Rick McNulty:
-  name: "Rick McNulty"
-  uri: "http://google.com"
-  email: "billy@rick.com"
-  bio: "Former full-time bartender turned software developer."
-  avatar: "/assets/images/authors/bartenders/rick-nulty-bio-pic.jpg"
-  twitter: "extravagantman"
-  linkedin: "Rick McNulty"
-  instagram: "Rick McNulty"
+Neyah White:
+  name: "Neyah White"
+  bio: "Former full-time bartender turned branch ambassador."
+  avatar: "/assets/images/authors/bartenders/neyah-white-bio-pic.jpg"
 
 # Life coach contributors
 Emma Johnson:

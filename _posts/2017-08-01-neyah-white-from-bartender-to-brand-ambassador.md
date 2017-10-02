@@ -9,9 +9,7 @@ header:
   image: /assets/images/posts/2017-08-01-neyah-white/header.jpg
 teaser_image_path: /assets/images/posts/2017-08-01-neyah-white/teaser.jpg
 tags:
-  - sample post
-  - readability
-  - test
+  - brand ambassador
 ---
 
 I didn’t want to step out from behind the bar, to be honest. Cocktails were very good to me. The traditional immediate rewards of fun nights, getting paid mostly in cash and not having to take my work home with me were bolstered by the incredible camaraderie of the cocktail community, the opportunities to travel and be a part of the greater drinks industry and the creative outlet that managing bars gave me.

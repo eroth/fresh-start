@@ -9,9 +9,7 @@ header:
   image: /assets/images/posts/2017-07-31-shane-wesbrock/header.jpg
 teaser_image_path: /assets/images/posts/2017-07-31-shane-wesbrock/teaser.jpg
 tags:
-  - sample post
-  - readability
-  - test
+  - writer
 ---
 
 ## In the beginning...

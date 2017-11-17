@@ -29,3 +29,10 @@ Emma Johnson:
   email: "emma@change-your-life.com"
   bio: "A life coach striving to effect meaningful change for my clients."
   avatar: "/assets/images/authors/life_coaches/emma-johnson-bio-pic.jpg"
+
+Emma Eker:
+  name: "Emma Eker"
+  uri: "https://emmaeker.com"
+  email: "emma@emmaeker.com"
+  bio: "Everyday evolution."
+  avatar: "/assets/images/authors/life_coaches/emma-eker-bio-pic.jpg"

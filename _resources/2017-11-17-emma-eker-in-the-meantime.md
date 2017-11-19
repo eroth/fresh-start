@@ -22,3 +22,5 @@ So I know it’s only my personal and humble opinion, but when faced with the tw
 Here’s to trusting the process and as always, to your evolution!
 
 Emm
+
+_* This is an edited version of a post available on [Emma's site](https://emmaeker.com/in-the-meantime-allowing-change-to-happen)._

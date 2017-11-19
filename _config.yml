@@ -257,6 +257,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header:
+        image: /assets/images/resources/header.jpg
+      teaser_image_path: /assets/images/resources/teaser.jpg
       read_time: true
       comments: # true
       share: true

@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#5e616c"
+  overlay_filter: "0.4"
   overlay_image: /assets/images/homepage/homepage-holiday-lounge.jpg
   cta_label:
   cta_url:

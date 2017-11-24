@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Last Call"
+title                    : "The Last Call Project"
 title_separator          : "-"
-name                     : "Last Call"
+name                     : "The Last Call Project"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

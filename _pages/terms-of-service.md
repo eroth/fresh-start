@@ -1,7 +1,6 @@
 ---
 permalink: /terms-of-service/
 title: "Terms of Service"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layout: single
 ---
 
@@ -23,7 +22,7 @@ Links To Other Web Sites
 ------------------------
 
 Our Service may contain links to third party web sites or services that are
-not owned or controlled by The Last Call Project
+not owned or controlled by The Last Call Project.
 
 The Last Call Project has no control over, and assumes no responsibility for
 the content, privacy policies, or practices of any third party web sites or
@@ -114,4 +113,4 @@ the new terms, you are no longer authorized to use the Service.
 Contact Us  
 ----------
 
-If you have any questions about these Terms, please write legal@thelastcallproject.com.
+If you have any questions about these Terms, please write [legal@thelastcallproject.com](mailto:legal@thelastcallproject.com).

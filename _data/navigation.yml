@@ -12,3 +12,5 @@ main:
     url: /terms-of-service/
   - title: "Privacy Policy"
     url: /privacy-policy/
+  - title: "DMCA"
+    url: /dmca-takedown-policy

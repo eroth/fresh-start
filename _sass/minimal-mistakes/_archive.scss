@@ -126,6 +126,10 @@
     padding-right: $right-sidebar-width-wide;
   }
 
+  .archive__item-teaser {
+    margin-bottom: 0.5em;
+  }
+
   .page__meta {
     margin: 0 0 4px;
   }
@@ -191,7 +195,6 @@
   font-size: 1.25rem;
 
   @include breakpoint($small) {
-    margin-bottom: 0;
     @include gallery(4 of 12);
 
     .feature__item-teaser {

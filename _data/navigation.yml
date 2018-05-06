@@ -6,7 +6,9 @@ main:
     url: /archive/
   - title: "Resources"
     url: /resources/
-  - title: "Forum"
-    url: /forum/
   - title: "Share Your Story"
     url: /share-your-story/
+  - title: "Terms of Service"
+    url: /terms-of-service/
+  - title: "Privacy Policy"
+    url: /privacy-policy/

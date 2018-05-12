@@ -2,8 +2,8 @@
 title: "Finding the Right Path: Introduction"
 author: Indra Jackson
 header:
-  image: /assets/images/resources/2018-05-07-emma-eker/header.jpg
-teaser_image_path: /assets/images/resources/2018-05-07-emma-eker/teaser.jpg
+  image: /assets/images/resources/2018-08-23-indra-jackson/header.jpg
+teaser_image_path: /assets/images/resources/2018-08-23-indra-jackson/teaser.jpg
 ---
 
 5 Steps to:

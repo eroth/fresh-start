@@ -2,8 +2,8 @@
 title: "In The Meantime--Allowing Change to Happen"
 author: Emma Eker
 header:
-  image: /assets/images/resources/2018-05-07-emma-eker/header.jpg
-teaser_image_path: /assets/images/resources/2018-05-07-emma-eker/teaser.jpg
+  image: /assets/images/resources/2018-04-16-emma-eker/header.jpg
+teaser_image_path: /assets/images/resources/2018-04-16-emma-eker/teaser.jpg
 ---
 
 Life is always guiding you. Listen carefully for its promptings – the impulses you have towards certain activities, seemingly synchronistic meetings with people able to help you on your path, a felt need to turn a corner or enter a particular coffee shop, a book that comes your way, a film that inspires you, a song on the radio with a message especially for YOU (we all know that one!), a ‘coincidence’ too uncanny to ignore – there are millions of ways in which life will speak to you. But you’ll be hard pressed to hear or see if you’re running a stream of negative chatter through your mind.

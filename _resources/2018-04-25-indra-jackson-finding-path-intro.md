@@ -2,9 +2,9 @@
 title: "Finding the Right Path: Introduction"
 author: Indra Jackson
 header:
-  image: /assets/images/resources/2018-08-23-indra-jackson/header.jpg
+  image: /assets/images/resources/2018-04-25-indra-jackson/header.jpg
   caption: "Photo credit: Chris Jackson [(Flickr)](https://www.flickr.com/photos/chaz_pics)"
-teaser_image_path: /assets/images/resources/2018-08-23-indra-jackson/teaser.jpg
+teaser_image_path: /assets/images/resources/2018-04-25-indra-jackson/teaser.jpg
 ---
 
 5 Steps to:

@@ -2,8 +2,9 @@
 title: "Finding the Right Path: Step One"
 author: Indra Jackson
 header:
-  image: /assets/images/resources/2018-05-07-emma-eker/header.jpg
-teaser_image_path: /assets/images/resources/2018-05-07-emma-eker/teaser.jpg
+  image: /assets/images/resources/2018-08-25-indra-jackson/header.jpg
+  caption: "Photo credit: Chris Jackson [(Flickr)](https://www.flickr.com/photos/chaz_pics)"
+teaser_image_path: /assets/images/resources/2018-08-25-indra-jackson/teaser.jpg
 ---
 
 5 Steps to:	Finding the right path

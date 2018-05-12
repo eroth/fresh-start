@@ -1,7 +1,7 @@
 ---
 permalink: /archive/
 title: "Archive"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "Archived posts for the Last Call Project."
 layout: archive
 ---
 <p><i>Past stories from those who have contributed...</i></p>

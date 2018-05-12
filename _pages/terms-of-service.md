@@ -1,6 +1,7 @@
 ---
 permalink: /terms-of-service/
 title: "Terms of Service"
+excerpt: "Terms of Service for the Last Call Project."
 layout: single
 ---
 

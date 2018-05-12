@@ -6,8 +6,8 @@ author_profile: true
 share: true
 layout: single
 header:
-  image: /assets/images/posts/2017-07-31-shane-wesbrock/header.jpg
-teaser_image_path: /assets/images/posts/2017-07-31-shane-wesbrock/teaser.jpg
+  image: /assets/images/posts/2018-05-03-shane-wesbrock/header.jpg
+teaser_image_path: /assets/images/posts/2018-05-03-shane-wesbrock/teaser.jpg
 tags:
   - writer
 ---

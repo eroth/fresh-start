@@ -1,7 +1,7 @@
 ---
 permalink: /resources/
 title: "Resources"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "Articles written by professional life coaches to help readers of the Last Call Project."
 layout: archive
 ---
 

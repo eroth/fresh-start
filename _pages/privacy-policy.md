@@ -1,6 +1,7 @@
 ---
 permalink: /privacy-policy/
 title: "Privacy Policy"
+excerpt: "The Privacy Policy for the Last Call Project."
 layout: single
 ---
 

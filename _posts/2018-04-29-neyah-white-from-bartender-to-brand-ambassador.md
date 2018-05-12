@@ -6,8 +6,8 @@ author_profile: true
 share: true
 layout: single
 header:
-  image: /assets/images/posts/2017-08-01-neyah-white/header.jpg
-teaser_image_path: /assets/images/posts/2017-08-01-neyah-white/teaser.jpg
+  image: /assets/images/posts/2018-04-29-neyah-white/header.jpg
+teaser_image_path: /assets/images/posts/2018-04-29-neyah-white/teaser.jpg
 tags:
   - brand ambassador
 ---

@@ -23,16 +23,18 @@ Neyah White:
   avatar: "/assets/images/authors/bartenders/neyah-white-bio-pic.jpg"
 
 # Life coach contributors
-Emma Johnson:
-  name: "Emma Johnson"
-  uri: "http://google.com"
+Indra Jackson:
+  name: "Indra Jackson"
+  uri: "https://www.indrajackson.com/"
+  facebook: "IndraJacksonLifecoach"
+  linkedin: "in/indra-jackson-7bb14b90"
   email: "emma@change-your-life.com"
-  bio: "A life coach striving to effect meaningful change for my clients."
-  avatar: "/assets/images/authors/life_coaches/emma-johnson-bio-pic.jpg"
+  bio: "My passion is to bring the very best out of people.  I love working individually with each client, discovering how to unlock the door to a positive future, where every day is seen as a new opportunity.  We all have it in us to change our lives for the better; my purpose is to help you find this."
+  avatar: "/assets/images/authors/life_coaches/indra-jackson-bio-pic.jpg"
 
 Emma Eker:
   name: "Emma Eker"
-  uri: "https://emmaeker.com"
+  uri: "https://www.emmaeker.com"
   facebook: "ekeremma"
   instagram: "ekeremma"
   linkedin: "in/emmaeker"

@@ -1,6 +1,7 @@
 ---
 permalink: /dmca-takedown-policy/
 title: "DMCA Takedown Policy"
+excerpt: "The DMCA Takedown Policy for the Last Call Project."
 layout: single
 ---
 

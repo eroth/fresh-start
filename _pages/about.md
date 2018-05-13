@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "Information about how the Last Call Project originated, its mission, and the tech used to create it."
-last_modified_at: 2017-09-12T14:28:13-05:00
+last_modified_at: 2018-05-13T14:28:13-05:00
 layout: single
 author_profile: true
 author: Evan Roth

@@ -3,7 +3,7 @@ title: "Finding the Right Path: Step Two"
 author: Indra Jackson
 header:
   image: /assets/images/resources/2018-04-27-indra-jackson/header.jpg
-  caption: "[Photo credit: Chris Jackson (Flickr)](https://www.flickr.com/photos/chaz_pics)"
+  caption: "[Photo credit: Charlie Jackson (Flickr)](https://www.flickr.com/photos/chaz_pics)"
 teaser_image_path: /assets/images/resources/2018-04-27-indra-jackson/teaser.jpg
 ---
 

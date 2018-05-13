@@ -140,7 +140,7 @@ It also taught me that this is one of the reasons why companies hire contract wo
 <figure class="half">
 	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2018-04-17-evan-roth/graduation/me-in-the-crowd-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2018-04-17-evan-roth/graduation/me-in-the-crowd-preview.jpg" title="Me in the crowd, about to go up and get my diploma."></a>
 	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2018-04-17-evan-roth/graduation/me-with-dad-full.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2018-04-17-evan-roth/graduation/me-with-dad-preview.jpg" title="Me posing with my dad afterwards."></a>
-	<figcaption>First: me in the crowd, about to go up and get my diploma. Second: me posing with my dad afterwards.</figcaption>
+	<figcaption>First: Me in the crowd, about to go up and get my diploma. Second: Me posing with my dad afterwards.</figcaption>
 </figure>
 
 ## Epilogue

@@ -19,4 +19,4 @@ If you believe that material or content residing on or accessible through Compan
 - A statement that the notifier has a good faith belief that the material is not authorized by the copyright owner, its agent, or the law; and 
 - A statement made under penalty of perjury that the information provided is accurate and the notifying party is authorized to make the complaint on behalf of the copyright owner. 
 
-Please contact the Designated Agent to Receive Notification of Claimed Infringement for Company at: [legal@thelastcallproject.com](mailto:legal@thelastcallproject.com)
+Please contact the Designated Agent to Receive Notification of Claimed Infringement for Company at: [legal@thelastcallproject.com](mailto:legal@thelastcallproject.com).

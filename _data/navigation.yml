@@ -8,9 +8,3 @@ main:
     url: /resources/
   - title: "Share Your Story"
     url: /share-your-story/
-  - title: "Terms of Service"
-    url: /terms-of-service/
-  - title: "Privacy Policy"
-    url: /privacy-policy/
-  - title: "DMCA"
-    url: /dmca-takedown-policy

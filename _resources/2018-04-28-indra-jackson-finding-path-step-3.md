@@ -7,7 +7,7 @@ header:
 teaser_image_path: /assets/images/resources/2018-04-28-indra-jackson/teaser.jpg
 ---
 
-5 Steps to:	Finding the right path
+5 Steps to:	Finding the right path  
 How to use the most powerful tool you have to guide you…
 
 ### Step 3: CONNECT TO YOUR HEART…your highest intuition

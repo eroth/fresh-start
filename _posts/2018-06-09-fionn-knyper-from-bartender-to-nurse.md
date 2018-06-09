@@ -2,8 +2,8 @@
 title: "From Bartender To Nurse"
 author: Fionn Knyper
 header:
-  image: /assets/images/posts/2018-05-03-shane-wesbrock/header.jpg
-teaser_image_path: /assets/images/posts/2018-05-03-shane-wesbrock/teaser.jpg
+  image: /assets/images/posts/2018-06-09-fionn-knyper/header.jpg
+teaser_image_path: /assets/images/posts/2018-06-09-fionn-knyper/teaser.jpg
 tags:
   - writer
 ---

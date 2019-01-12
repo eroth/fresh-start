@@ -54,6 +54,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+instagram:
+  username               : "the_last_call_project"
 twitter:
   username               :
 facebook:

@@ -63,7 +63,7 @@
 
   img {
     width: 100%;
-    
+
     &.emoji {
       width: 20px;
       height: 20px;
@@ -168,6 +168,8 @@
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
+  font-weight: 300;
+  font-style: normal;
 }
 
 .author__bio {
@@ -315,4 +317,3 @@
     margin-right: initial;
   }
 }
-

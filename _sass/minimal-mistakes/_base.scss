@@ -30,7 +30,8 @@ h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
-  font-weight: bold;
+  font-weight: $roboto-bold;
+  font-style: normal;
 }
 
 h1 {
@@ -266,6 +267,7 @@ figcaption {
   color: $muted-text-color;
   font-family: $caption-font-family;
   font-size: $type-size-6;
+  font-style: italic;
 
   a {
     -webkit-transition: $global-transition;

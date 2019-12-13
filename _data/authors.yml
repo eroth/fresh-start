@@ -15,10 +15,15 @@ Shane Wesbrock:
   bio: "Former full-time bartender turned writer."
   avatar: "/assets/images/authors/bartenders/shane-wesbrock-bio-pic.jpg"
 
-Neyah White:
-  name: "Neyah White"
-  bio: "Former full-time bartender turned branch ambassador."
-  avatar: "/assets/images/authors/bartenders/neyah-white-bio-pic.jpg"
+Sophia Davis:
+  name: "Sophia Davis"
+  bio: "Former professional singer turned life coach."
+  uri: "https://www.sophiadavis.co.uk/"
+  email: "sophia@sophiadavis.co.uk"
+  twitter: "sophia_davis"
+  facebook: "sophiadavislifecoach"
+  instagram: "sophia_davis_coach"
+  avatar: "/assets/images/authors/bartenders/sophia-davis-bio-pic.jpg"
 
 Fionn Knyper:
   name: "Fionn Knyper"

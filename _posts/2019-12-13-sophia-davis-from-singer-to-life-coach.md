@@ -6,8 +6,8 @@ author_profile: true
 share: true
 layout: single
 header:
-  image: /assets/images/posts/2018-04-17-evan-roth/header.jpg
-teaser_image_path: /assets/images/posts/2018-04-17-evan-roth/teaser.jpg
+  image: /assets/images/posts/2019-12-13-sophia-davis/header.jpg
+teaser_image_path: /assets/images/posts/2019-12-13-sophia-davis/teaser.jpg
 tags:
   - life coach
 ---

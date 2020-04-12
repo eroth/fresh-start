@@ -1,6 +1,7 @@
 ---
 title: "Finding the Right Path: Introduction"
 author: Indra Jackson
+last_modified_at: 2019-07-16T23:20:02-05:00
 header:
   image: /assets/images/resources/2018-04-25-indra-jackson/header.jpg
   caption: "[Photo credit: Charlie Jackson (Flickr)](https://www.flickr.com/photos/chaz_pics)"
@@ -10,10 +11,10 @@ teaser_image_path: /assets/images/resources/2018-04-25-indra-jackson/teaser.jpg
 5 Steps to:
 Finding the right path
 
-Are you sick of bartending?
+Are you sick of working at your current job?
 Hello, all you wonderful people out there with talents as yet undiscovered and delightful new paths to unfold…
-IS YOUR JOB BEHIND THE BAR meaningless? Do you feel like not going in today - or any other day?
-Maybe you’re bored and feel stifled? Maybe you thought that learning how to make hundreds of cocktails and meeting well-known people would make you feel successful, but whilst you have everything a person your age should want - plenty of invitations, parties, money, (speed bartending skills!!) …actually you’re miserable and unfulfilled. Sound familiar?
+IS YOUR JOB meaningless? Do you feel like not going in today - or any other day?
+Maybe you’re bored and feel stifled? Maybe you thought that learning what it took you to get your current position would make you feel successful, but whilst you have everything you think a person should want - a good job, money, material things…actually you’re miserable and unfulfilled. Sound familiar?
 Whether you want to leave your job because of any of the above or maybe it’s just too physically demanding, it can be a daunting decision.
 
 Don’t worry…you’re in the right place!
